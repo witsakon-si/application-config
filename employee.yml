@@ -20,9 +20,9 @@ de:
 springdoc:
   swagger-ui:
     disable-swagger-default-url: true
-    path: /swagger-ui.html
+    path: /sv-emp/swagger-ui.html
   api-docs:
-    path: /v2/api-docs
+    path: /sv-emp/v2/api-docs
   show-actuator: true
 
 eureka:
